@@ -10,11 +10,7 @@
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open-orange.svg)](https://colab.research.google.com/)
 </div>
 
-## 🎥 Demo Video
-<video width="800" height="450" controls>
-  <source src="Pydantic_AI_Agent/videos/Untitled video - Made with Clipchamp (2).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## 📌 Overview
 Pydantic_AI_Agent is a versatile AI agent framework that leverages type-safe data structures using Pydantic alongside state-of-the-art LLM APIs. The agent can be deployed either through Google Colab for quick experimentation or as a local Streamlit application for a more integrated experience.
