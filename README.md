@@ -12,7 +12,7 @@
 
 ## 🎥 Demo Video
 <video width="800" height="450" controls>
-  <source src="videos/Untitled video - Made with Clipchamp (2).mp4" type="video/mp4">
+  <source src="Pydantic_AI_Agent/videos/Untitled video - Made with Clipchamp (2).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -22,7 +22,7 @@ Pydantic_AI_Agent is a versatile AI agent framework that leverages type-safe dat
 ## 📸 Screenshots
 <img src="images/Screenshot 2025-06-10 102327.png" alt="Streamlit Interface" width="600"/>
 
-<img src="images/Screenshot 2025-06-10 102420.png alt="working screenshot" width="600"/>
+<img src="images/Screenshot 2025-06-10 102420.png" alt="working screenshot" width="600"/>
 
 ## ✨ Features
 - 🤖 Structured AI interactions using Pydantic validation
