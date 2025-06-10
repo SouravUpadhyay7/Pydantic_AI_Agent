@@ -5,8 +5,8 @@ from pydantic_ai.agent import Agent
 from pydantic_ai.common_tools.tavily import tavily_search_tool
 
 # Set your API keys
-os.environ["GROQ_API_KEY"] = "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"
-TAVILY_API_KEY = "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"
+os.environ["GROQ_API_KEY"] = "your_groq_api_key_here"
+TAVILY_API_KEY = "your_tavily_api_key_here"
 
 # Define and export the agent
 agent = Agent(
