@@ -12,7 +12,7 @@
 
 ## 🎥 Demo Video
 <video width="800" height="450" controls>
-  <source src="demo/pydantic-ai-agent-demo.mp4" type="video/mp4">
+  <source src="videos/Untitled video - Made with Clipchamp (2).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -20,9 +20,9 @@
 Pydantic_AI_Agent is a versatile AI agent framework that leverages type-safe data structures using Pydantic alongside state-of-the-art LLM APIs. The agent can be deployed either through Google Colab for quick experimentation or as a local Streamlit application for a more integrated experience.
 
 ## 📸 Screenshots
-<img src="images/streamlit-interface.png" alt="Streamlit Interface" width="600"/>
+<img src="images/Screenshot 2025-06-10 102327.png" alt="Streamlit Interface" width="600"/>
 
-<img src="images/agent-workflow.png" alt="Agent Workflow Diagram" width="600"/>
+<img src="images/Screenshot 2025-06-10 102420.png alt="working screenshot" width="600"/>
 
 ## ✨ Features
 - 🤖 Structured AI interactions using Pydantic validation
